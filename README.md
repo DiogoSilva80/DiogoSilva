@@ -19,5 +19,5 @@ I enjoy low-level and distributed systems: making processes, threads and machine
   Playable Pacman clone with game loop, collision detection and ghost movement.
 - **Arduino games:** [Whack-a-LED](https://github.com/DiogoSilva80/Arduino-Whack-a-LED-Diogo) · [Super Bit Smasher](https://github.com/DiogoSilva80/Arduino-Super-Bit-Smasher-Diogo) (C++)
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/O-TEU-PERFIL](https://linkedin.com/in/O-TEU-PERFIL)
-- Email: O-TEU-EMAIL
+- LinkedIn: https://www.linkedin.com/in/diogo-silva-a600bb204/
+- Email: diogoamfsilva@gmail.com
